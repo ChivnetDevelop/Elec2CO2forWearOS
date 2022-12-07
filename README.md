@@ -15,10 +15,6 @@ As an Android user myself, I take privacy very seriously. I know how irritating 
 
 I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
 
-The only user permission in this app's AndroidManifest.xml file is -:
-
-uses-permission android:name="android.permission.WAKE_LOCK" (Allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming)
-
 All data (app preferences (like theme, etc.) and alarms) created by you (the user) are stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
 The app does use third-party services that may collect information used to identify you. A link to the privacy policy of third-party service providers (known to me) used by the app are -: Google Play Services (https://www.google.com/policies/privacy/)
