@@ -3,7 +3,7 @@ Privacy Policy for Elec2CO2 for Wear OS App
 
 Statement Regarding "Elec2CO2 for Wear OS" App Privacy Policy
 
-This app is available on Google Play.
+This app is available on Google Play in selected Wear OS and Android versions.
 
 This app is provided at no cost and is intended for use as is.
 
@@ -19,8 +19,8 @@ All data (app preferences (like theme, etc.) and alarms) created by you (the use
 
 The app does use third-party services that may collect information used to identify you. A link to the privacy policy of third-party service providers (known to me) used by the app are -: Google Play Services (https://www.google.com/policies/privacy/)
 
-I want to inform you that whenever you use this Service, in case of an error in the app data is collected and information (through third-party products) on your device called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing this Service, the time and date of your use of the Service, and other statistics. The crash report can be submitted by you if necessary.
+I want to inform you that whenever you use this Service, in case of an error in the app, data is collected and information (through third-party products) may exist on your device called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing this Service, the time and date of your use of the Service, and other statistics. The crash report can be submitted by you if necessary.
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email and I will try to fix it/help you.
 
-Yours sincerely, chivnetdevelop@gmail.com 2nd December 2022
+Yours sincerely, chivnetdevelop@gmail.com 29th December 2022
