@@ -1,15 +1,15 @@
-# Elec2CO2forWearOS
-Privacy Policy for Elec2CO2 for Wear OS App
+# Elec2CO2
+Privacy Policy for Elec2CO2 App
 
-Statement Regarding "Elec2CO2 for Wear OS" App Privacy Policy
+Statement Regarding "Elec2CO2" App Privacy Policy
 
-This app is available on Google Play in selected Wear OS and Android versions.
+This app is available on Google Play in selected Android versions.
 
 This app is provided at no cost and is intended for use as is.
 
 No liability is taken for any loss, direct or indirect, you experience as a result of relying wholly on the functionality of this app.
 
-This app may stop being provided any time without giving notice of termination to you the user. Unless notified otherwise, upon any termination, (a) the rights and licenses granted to you will end; (b) you must stop using the app, and (if needed) delete it from your device.
+This app may stop being provided any time without giving notice of termination to you the user. Unless notified otherwise, upon any termination, (a) the rights and licenses granted to you will end; (b) you must stop using the app, and (if needed) delete it from your device. (Please note that as of the 31st December 2023, Elec2CO2 for Wear OS app was discontinued and deleted from the Google Play Store. Elec2CO2 for android is still available)
 
 As an Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
@@ -23,4 +23,4 @@ I want to inform you that whenever you use this Service, in case of an error in 
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email and I will try to fix it/help you.
 
-Yours sincerely, chivnetdevelop@gmail.com 29th December 2022
+Yours sincerely, chivnetdevelop@gmail.com . 1st January 2024.
