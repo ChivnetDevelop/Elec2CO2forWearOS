@@ -1,11 +1,11 @@
 # Elec2CO2
 Privacy Policy for Elec2CO2 App
 
-Statement Regarding "Elec2CO2" App Privacy Policy
+Statement Regarding "Elec2CO2" / "Elec2Co2Android" App Privacy Policy
 
 This app is available on Google Play in selected Android versions.
 
-This app is provided at no cost and is intended for use as is.
+This app is provided at no cost and is intended for use as is and not intended for professional or commercial purposes.
 
 No liability is taken for any loss, direct or indirect, you experience as a result of relying wholly on the functionality of this app.
 
@@ -15,7 +15,7 @@ As an Android user myself, I take privacy very seriously. I know how irritating 
 
 I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
 
-All data (app preferences (like theme, etc.) and alarms) created by you (the user) are stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+All data (app preferences (like theme, etc.) and alarms) created by you (the user) are stored on your device only, and can be simply erased by clearing the app's data, cache or uninstalling it.
 
 The app does use third-party services that may collect information used to identify you. A link to the privacy policy of third-party service providers (known to me) used by the app are -: Google Play Services (https://www.google.com/policies/privacy/)
 
@@ -23,4 +23,4 @@ I want to inform you that whenever you use this Service, in case of an error in 
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email and I will try to fix it/help you.
 
-Yours sincerely, chivnetdevelop@gmail.com . 1st January 2024.
+Yours sincerely, chivnet@outlook.com 18th October 2024
